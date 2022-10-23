@@ -1,0 +1,7 @@
+.Main{ height: 700px;width: 550px; background-color: aqua; }
+
+.image{height: 40px;width: 40px;}
+
+.Page1{ height: 60px;width: 120px;background-color: blanchedalmond;}
+
+.Page2 {height: 50px;width: 120px; position:relative; left: 320px; position: relative;top: -50px;right: -6px; right: 10px; } 

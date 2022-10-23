@@ -1,0 +1,6 @@
+.pag{height: 200px;width: 320px; color: black ; background-color: rgb(142, 221, 142); }
+.first{ height: 100px; width: 300px; color: white; background-color: rgb(221, 39, 39);position: relative;left:319px;bottom: 18px; }
+.second{ height: 100px; width: 500px; color: white; background-color: rgb(59, 59, 87);position: relative;left: 618px; bottom: 118px; }
+.third{ height: 100px; width: 800px ; color:wheat ; background-color: rgb(118, 118, 74); position: relative;left:320px  ; bottom: 120px; }
+.fourth{ height: 190px; width: 1120px; color: white; background-color: rgb(167, 95, 122); position:relative;bottom: 70px; bottom: 120px; }
+.fifth {height: 50px; width: 1120px; color: white; background-color: rgb(89, 55, 60);position: relative;bottom: 120px;}

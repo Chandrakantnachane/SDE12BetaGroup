@@ -1,0 +1,70 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    height: 600px;
+    width: 1350px;
+    background-image: url(images/indiagate.jpg)
+}
+.header{
+    height: 50px;
+    width: 1350px;
+    background-color: transparent;
+}
+.text1{
+    color: brown;
+    font-size: 50px;
+    margin-left: 20px;
+}
+ul li {
+    float: left;
+    display: block;
+    margin-left: 900px;
+    font-size: 30px;
+    position: relative;
+    top: -50px;
+}
+.container{
+    height: 550px;
+    width: 1350px;
+}
+.text2{
+    color: black;
+    font-size: 50px;
+    position: relative;
+    top: 280px;
+    left: 10px;
+}
+.text3:after {
+    content: '';
+    animation: changetext 5s infinite linear;
+    color: deepskyblue;
+    font-size: 50px;
+    position: relative;
+    top: 280px;
+    left: 50px;
+    }
+    @keyframes changetext{
+        20%{ content: "Maharashtra";}
+        40%{ content: "Goa";}
+        60%{ content: "Mumbai";}
+        80%{ content: "Gujarat";}
+        100%{ content: "Manali";}
+    }
+ .btn{
+    float: left;
+    font-size: 40px;
+    border-radius: 20px;
+    background-color: aqua;
+    margin: 10px;
+ }
+ .btn{
+    position: relative;
+    top: 350px;
+    left: 500px;
+ }
+.btn:hover{
+    background-color: bisque;
+    transition: 0.2s;
+}

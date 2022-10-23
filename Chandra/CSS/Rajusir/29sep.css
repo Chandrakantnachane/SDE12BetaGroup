@@ -1,0 +1,41 @@
+.Main {
+    height: 650px;
+    width: 900px;
+    background-color: black;
+}
+
+.Header {
+    height: 100px;
+    width: 900px;
+    background-color: greenyellow;
+    text-align: center;
+}
+
+.Sidebar {
+    height: 370px;
+    width: 292px;
+    background-color: greenyellow;
+    position: relative;
+    left: 0px;
+    bottom: -15px;
+    text-align: center
+}
+
+.Content {
+    height: 370px;
+    width: 592px;
+    background-color: greenyellow;
+    position: relative;
+    left: 307px;
+    bottom: 355px;
+    text-align: center
+}
+
+.Footer{
+    height:150px ;
+    width: 900px;
+    background-color: greenyellow;
+    position: relative;
+    top: -341px;
+    text-align: center
+}

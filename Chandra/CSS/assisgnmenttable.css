@@ -1,0 +1,33 @@
+thead{
+
+    background-color: yellow;
+    text-align: center;
+} 
+
+tbody{
+
+    background-color: antiquewhite;
+    text-align: center;
+
+}
+
+body{
+    margin: 110px;
+}
+
+caption{ 
+    background-color: yellowgreen;
+    font-size: 26px;
+}
+
+tfoot{
+
+    background-color: aqua;
+}
+
+table{
+
+    margin-auto;
+    border-collapse: ;
+    outline: 12px solid green;
+}

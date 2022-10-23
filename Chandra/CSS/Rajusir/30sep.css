@@ -1,0 +1,36 @@
+.Main{
+    height: 700px;
+    width: 900px;
+    border: 10px solid blue ;
+}
+
+.Text{
+    height: 200px;
+    width: 300px;
+    background-color: blueviolet;
+}
+
+.Text2{height: 100px;
+width: 600px;
+background-color: aqua;
+float: left;
+position: relative;
+left: 300px;
+bottom: 100px;}
+
+.Text3{
+    height: 100px;
+    width: 600px;
+    background-color: yellow;
+    float: left;
+    position: relative;
+    left: 300px;
+    bottom: 300px;
+}
+.text4{height:400px ;
+width:900px;
+background-color: green;}
+
+.Text5{height: 100px;
+width: 900px;
+background-color: rgb(179, 36, 60);}

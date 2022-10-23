@@ -1,0 +1,35 @@
+*{margin: 0px;
+ padding: 0px;}
+
+.Main{
+    height: 1000px;
+    width: 2700px;
+    background-image: url(Cackback.jpg);
+    background-repeat: no-repeat;
+}
+
+.Header{
+height: 26px;
+width: 909px;
+background-color: aqua;
+float: left;
+    
+}
+
+ul li{
+    color: black;
+    float: left;
+    left: 600px;
+    word-spacing:110px;
+    line-height: 20px;
+    font-size: 19px;
+    position: relative;
+     }
+.Three{
+    height: 500px;
+    width: 909px;
+    color: white;
+    text-align: center;
+
+
+}

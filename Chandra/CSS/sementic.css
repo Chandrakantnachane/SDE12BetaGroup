@@ -1,0 +1,48 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.Main {
+
+    height: 700px;
+    width: 1000px;
+    background-color: yellow;
+    margin: center;
+}
+
+.Header {
+
+    height: 100px;
+    width: 1000px;
+    background-color: green;
+    color: white;
+}
+
+.Selection {
+    height: 250px;
+    width: 500px;
+    background-color: skyblue;
+}
+
+.Aside {
+    height: 500px;
+    width: 500px;
+    background-color: tomato;
+    float: right;
+    position: relative;
+    top: -250px;
+}
+
+.Artical {
+    height: 250px;
+    width: 500px;
+    background-color: pink;
+}
+
+.Footer {
+    height: 100px;
+    width: 1000px;
+    background-color: greenyellow;
+    color: red;
+}

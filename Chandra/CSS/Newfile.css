@@ -1,0 +1,79 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    height: 720px;
+    width: 1500px;
+    background-image: url(/Images/corrent.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.header{
+    height: 50px;
+    width: 1350px;
+    background-color: transparent;
+}
+.text1{
+    color:white;
+    font-size: 50px;
+    margin-left: 20px;
+}
+ul li {
+    
+    float: left;
+    display: block;
+    margin-left: 900px;
+    font-size: 30px;
+    position: relative;
+    top: -50px;
+    color: red;
+    word-spacing: 18px;
+}
+
+.container{
+    height: 550px;
+    width: 1350px;
+}
+.text2{
+    color: yellow;
+    font-size: 50px;
+    position: relative;
+    top: 280px;
+    left: 10px;
+}
+.text3:after {
+    content: '';
+    animation: changetext 5s infinite linear;
+    color:rgb(158, 196, 158);
+    font-size: 50px;
+    position: relative;
+    top: 280px;
+    left: 50px;
+    lin width: 5000px;
+    margin:10p;
+    }
+    @keyframes changetext{
+        20%{ content: "Maharashtra";}
+        40%{ content: "Goa";}
+        60%{ content: "Mumbai";}
+        80%{ content: "Gujarat";}
+        100%{ content: "Manali";}
+    }
+ .btn{
+    float: left;
+    font-size: 30px;
+    border-radius: 30px;
+    background-color: orange
+    margin: 20px;
+ }
+ .btn{
+    position: relative;
+    top: 350px;
+    left: 500px;
+ }
+.btn:hover{
+    background-color: bisque;
+    transition: 0.2s;
+}

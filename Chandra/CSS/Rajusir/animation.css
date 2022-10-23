@@ -1,0 +1,63 @@
+* {
+    bottom: 0%;
+    margin: 0%;
+}
+
+
+.Box {
+    background-color: rgb(0, 255, 81);
+    height: 109px;
+    width: 40px;
+    margin: 500px;
+    border-radius: 89px;
+    animation-name: Ram;
+    animation-duration: 5s;
+    animation-iteration-count: inherit;
+    margin-top: 23px;
+    margin-top: 140px;
+}
+.Box2{background-color: yellow;
+    margin: 500px;
+    border: red;
+    animation: Name: Radhe;
+    animation-duration: 10s;
+    animation- iternation-count:inherit;}
+
+imp(animation-name:Radhe;
+animation-duration:2s)    
+
+img(animation-name:Ram;
+    animation-duration:2s;
+
+) @keyframes Ram {
+    10% {
+        background-color: purple;
+    }
+
+    20% {
+        background-color: yellowgreen;
+    }
+
+    30% {
+        background-color: magenta;
+    }
+
+    40% {
+        background-color: tomato;
+    }
+
+    50% {
+        background-color: orange;
+    }
+
+    70% {
+        transform: translate(500px);
+    }
+}
+
+@keyframes Ram {
+    100% {
+        transform: rotate(360deg);
+    }
+
+}

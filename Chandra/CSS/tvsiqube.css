@@ -1,0 +1,29 @@
+.Main{
+height: 800px;
+width: 1500px;
+background-color: yellow;
+}
+
+.Text{
+    height: 50px;
+    width: 1500px;
+    background-color: white;
+}
+
+ul li{
+    float: left;
+    list-style: none;
+    font-family: ;
+    word-spacing: 12px;
+    font-variant: normal;
+        
+    }
+
+  
+    
+ .Novebar{
+    
+    height: 500px;
+    width: 500px;
+   
+ }   

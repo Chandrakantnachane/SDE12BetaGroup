@@ -1,0 +1,42 @@
+.Main{
+    height: 700px;
+    width: 1000px;
+    background-color: greenyellow;
+
+}
+
+.Two{
+    height: 200px;
+    width: 250px;
+    background-color: aqua;
+    }
+
+
+.One{
+    height: 200px;
+    width: 250px;
+    background-color: orange;
+    float: left;
+
+}
+.three{
+    position: relative;bottom: -300px;
+    position: relative;
+    left: 500px;
+    top: -199px;
+}
+
+.MobileName{
+    float: left;
+    height: auto;    
+    width: auto;
+  }
+
+.See{
+    height: 100px;
+    width: 100px;
+    float: left;
+    position: relative;
+    right: 250px;
+    top: 140px;
+    } 

@@ -1,0 +1,39 @@
+.main{height: 700px;width: 1000px;
+   background-color: aqua;}
+
+.header{height: 200px;
+    width: 1000px;
+    background-color: yellow;
+}
+
+.social{
+    height: 100px;
+    width: 700px;
+    float: left;
+    background-color: orange; 
+}
+
+.logo{height: 100px;
+    width: 300px;
+    float: left;
+}
+.Navbar{
+    height: 100px;
+    width: 700px;
+    background-color: brown;
+    float: right;
+    text-align: left;-50px;
+    
+}
+
+ul li {display: inline-block;
+    color: white;
+    margin-left: 25px;
+    font-size: 30px;
+    line-height: -80px;}
+a {color: white;
+ }
+
+
+ .Page1 {height: 485px; width: 980px; position: relative;bottom: -40px ;left: -290px;}
+ 

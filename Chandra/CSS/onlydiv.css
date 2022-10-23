@@ -1,0 +1,73 @@
+.Main{ 
+    height: 1000px;
+    width: 1200px;
+    background-color: aqua;}
+
+.Page1{
+height: 50px;
+width: 1200px;
+background-color: aquamarine;
+text-align: center;
+background-image: url();
+
+}
+.Page2{
+    height: 50px;
+    width: 700px;
+    background-color: gray;
+    
+}
+.Page3{
+    height: 50px;
+    width: 700px;
+    background-color: antiquewhite;
+}
+.Page4{
+    height: 50px;
+    width: 500px;
+    background-color: yellow;
+    position: relative;
+    left: 700px;
+    bottom:100px;
+    }
+
+.Page5{
+    height: 50px;
+    width: 500px;
+    background-color: orange ;
+    position: relative;
+    left: 700px ;
+    bottom: 100px;
+   
+}    
+
+.Page6{
+    height: 100px;
+    width: 1200px;
+    background-color: greenyellow;
+    position:relative;
+    bottom: 100px;
+}
+
+.Page7{
+    height: 200px;
+    width: 1200px;
+    background-color: gold;
+    position: relative;
+    bottom: 100px;
+  }
+
+.Page8{
+    height: 200px;
+    width: 1200;
+    background-color: bisque;
+    position:relative;
+    bottom: 100px;}
+.Page9{
+    height: 300px;
+    width: 1200px;
+    background-color: yellowgreen;
+    position: relative;
+    bottom: 100px;
+
+}

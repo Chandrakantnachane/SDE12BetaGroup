@@ -1,0 +1,21 @@
+.Main{
+
+    height: 650px;
+    width: 1200px;
+    background-color: rgb(155, 155, 137);
+    background-image: url(/Images/new\ gym.jpg);
+    }
+
+ .header{ 
+    position: relative;
+    background-repeat: no-repeat;
+    left: 30px;
+    float: left;
+    height: 100px;
+    width: 1200px;
+    color: rgb(157, 38, 50)
+
+
+
+
+ }   

@@ -1,0 +1,72 @@
+.Main { 
+    height: 600px;
+    width: 600px;
+    background-color: bisque;
+    color: aquamarine;
+        
+}
+
+
+.Page1 {
+    height: 100px;
+    width: 600px;
+    background-color: green;
+    bottom: -200px;
+    left: -5px;
+    right: 5px;
+    }
+
+    .Text1{text-align: center;
+        padding-top: 25px;
+    }
+
+.Page2 {
+    height: 150px;
+    width: 295px;
+    background-color: green;
+    position: relative;
+    left: 2px;
+    bottom: -3px;
+}
+ 
+.Page3 {
+    height: 150px;
+    width: 298px;
+    background-color: green;
+    position: relative;
+    left: 300px;
+    bottom: 10px;
+    top: -148px;
+}
+
+.Page4 {
+    height: 180px;
+    width: 295px;
+    background-color: green;
+    position: relative;
+    left: 2px;
+    bottom: -1px;
+    top: -145px;
+}
+
+
+.Page5 {
+    height: 180px;
+    width: 295px;
+    background-color: green;
+    position: relative;
+    left: 301px;
+    bottom: -163px;
+    top: -325px;
+}
+
+
+.Page6 {
+    height: 150px;
+    width: 595px;
+    background-color: green;
+    position: relative;
+    left: 1px;
+    px;
+    bottom: 320px;
+}

@@ -1,0 +1,66 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+main {
+    background-color: green;
+    display: flex;
+
+    flex-direction: column;
+}
+
+header {
+    background-color: gray;
+    flex-direction: column;
+}
+
+
+nav {
+    background-color: yellow;
+    flex-direction: column;
+    flex-direction: 30%;
+}
+
+ul {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+aside {
+    background-color: yellow;
+    display: flex;
+
+    flex-direction: row;
+}
+
+@media all and (max-width: 600px) {
+    aside {
+        
+        flex-direction: column;
+    }
+}
+
+.One {
+    background-color: bisque;
+
+
+}
+
+.Two {
+    background-color: green;
+
+}
+
+.Three {
+    background-color: yellowgreen;
+
+}
+
+footer {
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+
+}
